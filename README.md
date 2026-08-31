@@ -1,3 +1,5 @@
+primeiro ptojeto aprndendo a uasr a plataforma 
+
 - `styles.css` — visual limpo de app de finanças
 - `scripts.js` — a IA lendo o comprovante (comentado passo a passo)
 
